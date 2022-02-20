@@ -8,7 +8,7 @@
 <br>
 [Thesis](https://github.com/rudydey13/portfolio/blob/020bcdda3c41904706898805584d82dd6c60baaf/pdf/Dey,%20Rudrajit.finaldraft.pdf)
 <br>
-[Jupyter Notebook File](https://github.com/rudydey13/portfolio/blob/020bcdda3c41904706898805584d82dd6c60baaf/SeniorThesisJupyterNotebook.html)
+[Jupyter Notebook File](https://htmlpreview.github.io/?https://github.com/rudydey13/portfolio/blob/7ec3e1836eaa995214149bb02357fef417d00175/jupyter_html/SeniorThesisJupyterNotebook.html)
 <img src="images/thesis_thumbnail.png?raw=true"/>
 
 ---
