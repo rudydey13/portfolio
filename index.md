@@ -5,6 +5,9 @@
 ### Category Name 1 
 
 [Senior Thesis]
+<br>
+[Thesis](/pdf/Dey,Rudrajit_FinalDraft)
+<br>
 [Jupyter Notebook File](/SeniorThesisJupyterNotebook)
 <img src="images/thesis_thumbnail.png?raw=true"/>
 
