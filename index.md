@@ -4,7 +4,7 @@
 
 ### Data Science Projects 
 
-Senior Thesis
+<b> Senior Thesis </b>
 <br>
 [Thesis PDF](https://github.com/rudydey13/portfolio/blob/020bcdda3c41904706898805584d82dd6c60baaf/pdf/Dey,%20Rudrajit.finaldraft.pdf)
 <br>
