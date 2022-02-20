@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Senior Thesis]
-[Jupyter Notebook File](/senior_thesis)
+[Jupyter Notebook File](/SeniorThesisJupyterNotebook)
 <img src="images/thesis_thumbnail.png?raw=true"/>
 
 ---
