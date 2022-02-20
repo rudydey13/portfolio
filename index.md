@@ -6,9 +6,9 @@
 
 [Senior Thesis]
 <br>
-[Thesis](/pdf/Dey,Rudrajit_FinalDraft.pdf)
+[Thesis](https://github.com/rudydey13/portfolio/blob/020bcdda3c41904706898805584d82dd6c60baaf/pdf/Dey,%20Rudrajit.finaldraft.pdf)
 <br>
-[Jupyter Notebook File](/SeniorThesisJupyterNotebook.html)
+[Jupyter Notebook File](https://github.com/rudydey13/portfolio/blob/020bcdda3c41904706898805584d82dd6c60baaf/SeniorThesisJupyterNotebook.html)
 <img src="images/thesis_thumbnail.png?raw=true"/>
 
 ---
