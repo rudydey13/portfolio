@@ -15,7 +15,7 @@
 
 <b> Auto Industry Case Study </b>
 <br>
-[![](https://img.shields.io/badge/Thesis%20Final%20Draft-View%20PDF-informational)](https://github.com/rudydey13/portfolio/blob/2a569514df1565ecb37ffeb4dff8de1bf07d6a5a/pdf/Exam2_Report_Dey.pdf)
+[![](https://img.shields.io/badge/Summary%20Report-View%20PDF-informational)](https://github.com/rudydey13/portfolio/blob/2a569514df1565ecb37ffeb4dff8de1bf07d6a5a/pdf/Exam2_Report_Dey.pdf)
 <br>
 [![](https://img.shields.io/badge/Jupyter%20Notebook-View%20HTML%20Preview-orange)](https://htmlpreview.github.io/?https://github.com/rudydey13/portfolio/blob/2a569514df1565ecb37ffeb4dff8de1bf07d6a5a/jupyter_html/AutoData_CaseStudy.html)
 <img src="images/auto_industry_thumbnail.png?raw=true"/>
@@ -24,7 +24,7 @@
 
 <b> Prostate Cancer Machine Learning Models </b>
 <br>
-[![](https://img.shields.io/badge/Thesis%20Final%20Draft-View%20PDF-informational)](https://github.com/rudydey13/portfolio/blob/c1d98c8faa43c5a7bec115c7cc5eaed048c592f7/pdf/PS3_Report_Dey.pdf)
+[![](https://img.shields.io/badge/Summary%20Report-View%20PDF-informational)](https://github.com/rudydey13/portfolio/blob/c1d98c8faa43c5a7bec115c7cc5eaed048c592f7/pdf/PS3_Report_Dey.pdf)
 <br>
 [![](https://img.shields.io/badge/Jupyter%20Notebook-View%20HTML%20Preview-orange)](https://htmlpreview.github.io/?https://github.com/rudydey13/portfolio/blob/c1d98c8faa43c5a7bec115c7cc5eaed048c592f7/jupyter_html/Prostate_Cancer_MachineLearningModels.html)
 <br>
@@ -53,19 +53,6 @@
 [![](https://img.shields.io/badge/Jupyter%20Notebook-View%20HTML%20Preview-orange)](https://htmlpreview.github.io/?https://github.com/rudydey13/portfolio/blob/d5ff789ee98d05fe2e0bc62551f21982c9a4939e/jupyter_html/presidential_administrationsSP500_wages_gender_education_COVID.html)
 <br>
 <img src="images/data_visuals.png?raw=true"/>
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
