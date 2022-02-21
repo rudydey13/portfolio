@@ -13,6 +13,15 @@
 
 ---
 
+<b> Basque Country ETA Bombing Case Study: Affect on GDP per Capita </b>
+<br>
+[![](https://img.shields.io/badge/Summary%20Report-View%20PDF-informational)](https://github.com/rudydey13/portfolio/blob/13fe7eb807793ca8d6c7782820a49cf79623ae90/pdf/Final_Report_Dey.pdf)
+<br>
+[![](https://img.shields.io/badge/Jupyter%20Notebook-View%20HTML%20Preview-orange)](https://htmlpreview.github.io/?https://github.com/rudydey13/portfolio/blob/13fe7eb807793ca8d6c7782820a49cf79623ae90/jupyter_html/Basque_Country_ETA_CaseStudy.html)
+<img src="images/basque_bombing_thumbnail.png?raw=true"/>
+
+--
+
 <b> Auto Industry Case Study </b>
 <br>
 [![](https://img.shields.io/badge/Summary%20Report-View%20PDF-informational)](https://github.com/rudydey13/portfolio/blob/2a569514df1565ecb37ffeb4dff8de1bf07d6a5a/pdf/Exam2_Report_Dey.pdf)
